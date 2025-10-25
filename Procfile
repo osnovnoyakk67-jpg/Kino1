@@ -1,1 +1,1 @@
-worker: python kino.py
+
