@@ -1,2 +1,0 @@
-# Kino1
-Skksgsksvaskb
